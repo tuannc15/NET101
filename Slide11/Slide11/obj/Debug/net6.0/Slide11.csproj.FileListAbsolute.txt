@@ -1,0 +1,14 @@
+D:\TuanNC15\NET101\Slide11\Slide11\bin\Debug\net6.0\Slide11.exe
+D:\TuanNC15\NET101\Slide11\Slide11\bin\Debug\net6.0\Slide11.deps.json
+D:\TuanNC15\NET101\Slide11\Slide11\bin\Debug\net6.0\Slide11.runtimeconfig.json
+D:\TuanNC15\NET101\Slide11\Slide11\bin\Debug\net6.0\Slide11.dll
+D:\TuanNC15\NET101\Slide11\Slide11\bin\Debug\net6.0\Slide11.pdb
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.AssemblyInfoInputs.cache
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.AssemblyInfo.cs
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.csproj.CoreCompileInputs.cache
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.dll
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\refint\Slide11.dll
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.pdb
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\Slide11.genruntimeconfig.cache
+D:\TuanNC15\NET101\Slide11\Slide11\obj\Debug\net6.0\ref\Slide11.dll
